@@ -18,6 +18,6 @@
     "colors": ">= 0.3.0"
   },
   "bin": { "forever": "./bin/jsond" },
-  "main": "./lib/jsond",
+  "main": "./js/lib/jsond",
   "engines": { "node": ">= 0.2.0" }
 }
